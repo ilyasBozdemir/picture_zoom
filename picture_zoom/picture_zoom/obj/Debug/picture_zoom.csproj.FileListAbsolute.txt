@@ -1,0 +1,10 @@
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\bin\Debug\picture_zoom.exe.config
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\bin\Debug\picture_zoom.exe
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\bin\Debug\picture_zoom.pdb
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\obj\Debug\picture_zoom.csprojAssemblyReference.cache
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\obj\Debug\picture_zoom.Form1.resources
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\obj\Debug\picture_zoom.Properties.Resources.resources
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\obj\Debug\picture_zoom.csproj.GenerateResource.cache
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\obj\Debug\picture_zoom.csproj.CoreCompileInputs.cache
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\obj\Debug\picture_zoom.exe
+C:\Users\BozdemirHome\Desktop\freelancer\test-project\picture_zoom\obj\Debug\picture_zoom.pdb
